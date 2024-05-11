@@ -1,0 +1,5 @@
+DFFT for Deblurring an Image
+https://github.com/Bharati2301/Image-Denoising-using-Fast-Fourier-Transform/blob/main/README.md
+
+IBM Quantum Algorithm Sessions
+https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#introduction
